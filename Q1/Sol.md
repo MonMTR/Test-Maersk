@@ -24,7 +24,7 @@ The trigger should build all the 3 projects - Web, API and test.
 and Prod through automated process.
 5) The deployments to QA and Prod should be enabled with Approvals from approvers only.
 - In release pipelines, we can have a multi-stage setup for each environment
-![Release-Stages](Images/Snap6.png)
+![Release-Stages](Images/Snap6.PNG)
 - DEV : Trigger set to After Release without having any pre-deployment approvals.
 
 ![Dev Stage Conditions](Images/Snap3.png)
