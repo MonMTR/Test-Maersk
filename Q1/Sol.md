@@ -10,7 +10,7 @@ Azure DevOps Pipeline service for below requirements:
 
 1) The build should trigger as soon as anyone in the dev team checks in code to master branch.
 
-![](Images\Snap1.png)
+![This is snap1](Images\Snap1.png)
 
 
 
