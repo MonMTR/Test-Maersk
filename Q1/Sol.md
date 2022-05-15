@@ -5,7 +5,7 @@
 
 ===========================================================
 
-The build should trigger as soon as anyone in the dev team checks in code to master branch.
+1) The build should trigger as soon as anyone in the dev team checks in code to master branch.
 
 - This can be achieved by enabling the Continuous Integration under Triggers and mention the Branch Specification to include 'Master'.
 
